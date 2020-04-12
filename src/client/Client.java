@@ -3,7 +3,7 @@ import javax.swing.SwingUtilities;
 
 import client.network.ClientChannel;
 import client.network.Session;
-
+//test test test
 public class Client {
 
 	public static Session session;
